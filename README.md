@@ -1,5 +1,6 @@
 # 2011CesusSQL
 SQL PROJECT ON CENSUS OF INDIA 2011 DATASETS
+
 Performed comprehensive data analysis on the 2011 Indian census datasets using MySQL, demonstrating strong proficiency in database querying and management.
 
 Database Management: Utilized MySQL to extract, transform, and load (ETL) large-scale census data efficiently.
